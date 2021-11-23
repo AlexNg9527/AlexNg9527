@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello World 👋👋
+
+- 🔭 I’m a QA engineer
+- 🌱 I’m currently learning Golang and kubernetes
+
 
 <!--
 **AlexNg9527/AlexNg9527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
