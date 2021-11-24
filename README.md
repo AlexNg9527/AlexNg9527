@@ -1,7 +1,7 @@
 ### Hello World 👋👋
 
 - 🔭 I’m a QA engineer 
-- 😄 I’m writing Python
+- 😄 I write Python
 - 👯 I’m currently working on engineering productivity by focusing on test frameworks, tools & infrastructure, internal consulting and coaching
 - 🌱 I’m currently learning Golang and Kubernetes
 - 🤔 I’m interested in DataScience and NLP
