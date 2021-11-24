@@ -1,4 +1,5 @@
-### Hello World 👋👋
+### Hello World 👋 
+🇨🇳 🦃 🍂 💢 🍽 🥧 👪 🍗 ❤️ 🎁 ⛺ 🎠 ⚓ 🔥
 
 - 🔭 I’m a QA engineer 
 - 😄 I write Python
